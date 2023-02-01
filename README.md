@@ -12,4 +12,4 @@ Um simples gestor focado para empresas de aluguéis de veículos
 
 . Entre outras.
 
-## Projeto Produzido para matéria de POO em Java no Instituto Federal de Goiás Câmpus Anápolis.
+## Projeto Produzido para matéria de POO em Java no Instituto Federal de Goiás Câmpus Anápolis - 2 Periodo.
